@@ -1,0 +1,4 @@
+C:\Users\carso\OneDrive\Documents\221_Labs\2024\mis-221-lab-4-cspiller3589\obj\Debug\net7.0\mis-221-lab-4-cspiller3589.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carso\OneDrive\Documents\221_Labs\2024\mis-221-lab-4-cspiller3589\obj\Debug\net7.0\mis-221-lab-4-cspiller3589.AssemblyInfoInputs.cache
+C:\Users\carso\OneDrive\Documents\221_Labs\2024\mis-221-lab-4-cspiller3589\obj\Debug\net7.0\mis-221-lab-4-cspiller3589.AssemblyInfo.cs
+C:\Users\carso\OneDrive\Documents\221_Labs\2024\mis-221-lab-4-cspiller3589\obj\Debug\net7.0\mis-221-lab-4-cspiller3589.csproj.CoreCompileInputs.cache
