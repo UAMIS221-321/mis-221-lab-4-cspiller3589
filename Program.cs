@@ -5,7 +5,7 @@ bool showMenu = true;       //the main menu, everything that is not the correct 
     Console.WriteLine("Welcome to Crimson Crust\n");
 
     while(showMenu){
-    Console.WriteLine("Choose an option:\n1. Plain Pizza\n2. Cheese Pizza\n3. Pepperoni Pizza\n3. Exit");
+    Console.WriteLine("Choose an option:\n1. Plain Pizza\n2. Cheese Pizza\n3. Pepperoni Pizza\n4. Exit");
     string menuChoice = Console.ReadLine();
     
     if(menuChoice == "1"){
@@ -32,15 +32,22 @@ bool showMenu = true;       //the main menu, everything that is not the correct 
     }
 }
 
-static void PlainPizza(){// The basic structure of this was helped in part because of my research on StackExchange. The majority of the process I already knew, however the general form and efficency I cannot take full credit for.
+static void PlainPizza(){
+        Console.Clear();
+        Random rand = new Random();// The basic structure of this was helped in part because of my research on StackExchange. The majority of the process I already knew, however the general form and efficency I cannot take full credit for.
         int rows = rand.Next(8, 13); // Random rows between 8 and 12
         for (int i = rows; i > 0; i--)
         {
             Console.WriteLine(new string('*', i) + " ");
         }
+        Console.WriteLine("\n Enter any key to continue.");
+        Console.ReadLine();
+        Console.Clear();
     }
 
 static void CheesePizza(){// Modified version of Plain Pizza.
+        Console.Clear();
+        Random rand = new Random();
         int rows = rand.Next(8, 13);
         for (int i = rows; i > 0; i--)
         {
@@ -53,10 +60,14 @@ static void CheesePizza(){// Modified version of Plain Pizza.
                 Console.WriteLine("*" + new string('#', i - 2) + "* ");
             }
         }
+        Console.WriteLine("\n Enter any key to continue.");
+        Console.ReadLine();
+        Console.Clear();
     }
 
-static void DisplayPepperoniPizza()// Even more modified version of Cheese Pizza. Adds a random section for Pepperoni
-    {
+static void PepperoniPizza(){// Even more modified version of Cheese Pizza. Adds a random section for Pepperoni
+        Console.Clear();
+        Random rand = new Random();
         int rows = rand.Next(8, 13);
         for (int i = rows; i > 0; i--)
         {
@@ -80,10 +91,13 @@ static void DisplayPepperoniPizza()// Even more modified version of Cheese Pizza
                 for (int j = 0; j < numPepperonis; j++)
                 {
                     int pepperoniPosition = rand.Next(1, i - 1);
-                    row[pepperoniPosition] = '[]';
+                    row[pepperoniPosition] = 'o';
                 }
 
                 Console.WriteLine(new string(row) + " ");
             }
         }
+        Console.WriteLine("\n Enter any key to continue.");
+        Console.ReadLine();
+        Console.Clear();
     }

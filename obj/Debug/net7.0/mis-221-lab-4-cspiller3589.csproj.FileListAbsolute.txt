@@ -2,3 +2,13 @@ C:\Users\carso\OneDrive\Documents\221_Labs\2024\mis-221-lab-4-cspiller3589\obj\D
 C:\Users\carso\OneDrive\Documents\221_Labs\2024\mis-221-lab-4-cspiller3589\obj\Debug\net7.0\mis-221-lab-4-cspiller3589.AssemblyInfoInputs.cache
 C:\Users\carso\OneDrive\Documents\221_Labs\2024\mis-221-lab-4-cspiller3589\obj\Debug\net7.0\mis-221-lab-4-cspiller3589.AssemblyInfo.cs
 C:\Users\carso\OneDrive\Documents\221_Labs\2024\mis-221-lab-4-cspiller3589\obj\Debug\net7.0\mis-221-lab-4-cspiller3589.csproj.CoreCompileInputs.cache
+C:\Users\carso\OneDrive\Documents\221_Labs\2024\mis-221-lab-4-cspiller3589\bin\Debug\net7.0\mis-221-lab-4-cspiller3589.exe
+C:\Users\carso\OneDrive\Documents\221_Labs\2024\mis-221-lab-4-cspiller3589\bin\Debug\net7.0\mis-221-lab-4-cspiller3589.deps.json
+C:\Users\carso\OneDrive\Documents\221_Labs\2024\mis-221-lab-4-cspiller3589\bin\Debug\net7.0\mis-221-lab-4-cspiller3589.runtimeconfig.json
+C:\Users\carso\OneDrive\Documents\221_Labs\2024\mis-221-lab-4-cspiller3589\bin\Debug\net7.0\mis-221-lab-4-cspiller3589.dll
+C:\Users\carso\OneDrive\Documents\221_Labs\2024\mis-221-lab-4-cspiller3589\bin\Debug\net7.0\mis-221-lab-4-cspiller3589.pdb
+C:\Users\carso\OneDrive\Documents\221_Labs\2024\mis-221-lab-4-cspiller3589\obj\Debug\net7.0\mis-221-lab-4-cspiller3589.dll
+C:\Users\carso\OneDrive\Documents\221_Labs\2024\mis-221-lab-4-cspiller3589\obj\Debug\net7.0\refint\mis-221-lab-4-cspiller3589.dll
+C:\Users\carso\OneDrive\Documents\221_Labs\2024\mis-221-lab-4-cspiller3589\obj\Debug\net7.0\mis-221-lab-4-cspiller3589.pdb
+C:\Users\carso\OneDrive\Documents\221_Labs\2024\mis-221-lab-4-cspiller3589\obj\Debug\net7.0\mis-221-lab-4-cspiller3589.genruntimeconfig.cache
+C:\Users\carso\OneDrive\Documents\221_Labs\2024\mis-221-lab-4-cspiller3589\obj\Debug\net7.0\ref\mis-221-lab-4-cspiller3589.dll
